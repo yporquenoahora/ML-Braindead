@@ -1,6 +1,9 @@
-Proyecto de ML sobre películas de terror-comedia que se estrenarán
+Proyecto de ML sobre películas de terror-comedia
+
+Estudia las probabilidades de que se estrenen más películas de estos géneros
 
 Con datos recogidos en Imdb vía la API de Tmdb y de Wikipedia he trabajado con 10000 películas
 
-El resultado del estudio es dudoso por diferentes factores
 
+
+https://github.com/yporquenoahora/ML-Braindead
